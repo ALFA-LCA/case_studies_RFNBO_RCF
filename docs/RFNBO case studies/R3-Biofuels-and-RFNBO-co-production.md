@@ -14,7 +14,7 @@ As clarified in the [Q&A document](https://circabc.europa.eu/ui/group/8f5f9424-a
 |----------------------------|:--------------:|:-----------------------:|
 |H2:CO ratio of biogenic syngas | $r_{bio}$ | $1:1$ |
 |Molar ratio of biogenic syngas to RFNBO hydrogen | $r_{sh}$ | $1:1$ |
-|(H2:CO ratio for FT reaction | $r_{FT}$ | $3:1$ )|
+|→ H2:CO ratio for FT reaction | $r_{FT}$ | $3:1$ |
 |Molar LHV hydrogen | $lhv_{H_2}$ | $244\ \color{grey}{\left.MJ\middle/kmol\right.}$ |
 |Molar LHV CO | $lhv_{CO}$ | $283\ \color{grey}{\left.MJ\middle/kmol\right.}$ |
 |Efficiency of the FT reaction | $\eta_{FT}$ | $70\color{grey}{\%}$ |

@@ -9,3 +9,11 @@
 .color {
   color: #888888;
 }
+
+.md-typeset h2 {
+  font-weight: bold !important;
+}
+.md-typeset h3 {
+  font-weight: bold !important;
+  text-decoration: underline;
+}

@@ -1,4 +1,4 @@
-# R6: Full example
+# R6: Full hydrogen to liquid example
 
 -   How to combine the previous examples and where to find additional information.
 

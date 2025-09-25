@@ -7,7 +7,7 @@ hide:
 
 !!! abstract "What is the purpose of this site?"
 
-    This document was created to help to understand how the calculation of carbon intensity and share of RFNBO and RCF should be implemented. Each case study focuses on one element that might be unclear. The last case study shows a more complex and realistic case.
+    This document was created to help to understand how the calculation of carbon intensity and share of RFNBO and RCF should be implemented. Each case study focuses on one element that might be unclear. The last case study of each section (H for hydrogen and R for RFNBO/RCF) shows a more complex and realistic case, combining different specific aspects presented in the simple case studies.
 
 ??? info "Legal notes"
 
@@ -107,7 +107,7 @@ hide:
     * How to allocate e_ex_use to co-products without carbon
     </a>
 
--   <a href="./RFNBO case studies/R6-Full-example">
+-   <a href="./RFNBO case studies/R6-Full-hydrogen-to-liquid-example.md">
     :bulb: __R6: Full hydrogen to liquid example__ :bulb:
 
     ---    
